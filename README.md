@@ -71,7 +71,6 @@ Run `carthage update` to build the framework and drag the built `Wormholy.framew
 - If you **have a feature request**, open an issue.
 - If you **want to contribute**, submit a pull request.
 
-
 ## Acknowledgements
 
 **Made with ❤️ by [Paolo Musolino](https://github.com/pmusolino).**
